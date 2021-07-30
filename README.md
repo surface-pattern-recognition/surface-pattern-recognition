@@ -1,6 +1,5 @@
-### Anonymous repository for
+### Anonymous repository for paper:
 ## "Automatic segmentation of archaeological fragments with relief patterns using convolutional neural networks"
-### paper
 ##### The dataset and the Jupyter Notebook to replicate the experiments are in the respective folders.
 
 ![surface pattern recognition head](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/24col.png)
