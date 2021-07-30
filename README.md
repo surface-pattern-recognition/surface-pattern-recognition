@@ -1,16 +1,19 @@
-### Hi there 👋
+### Anonymous repository for "Automatic segmentation of archaeological fragments with relief patterns using convolutional neural networks" paper
 
-<!--
-**surface-pattern-recognition/surface-pattern-recognition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![surface pattern recognition head](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/24col.png)
 
-Here are some ideas to get you started:
+##### The dataset and the Jupyter Notebook to replicate the experiments are in the respective folders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### An example of batch
+![batch](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/batch.png)
+### An example of data augmentation
+![albumentations](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/albumentations.png)
+### Segmentation results
+![results](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/surfpatt-results.png)
+
+![1](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/1.png)
+![2](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/2.png)
+![3](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/3.png)
+![4](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/4.png)
+![5](https://raw.githubusercontent.com/surface-pattern-recognition/surface-pattern-recognition/master/pics/5.png)
+
